@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leer_Teclado", "Leer_Teclado\Leer_Teclado.csproj", "{C3D51B64-8F1C-4ADC-B684-6CF721C2D9CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3D51B64-8F1C-4ADC-B684-6CF721C2D9CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3D51B64-8F1C-4ADC-B684-6CF721C2D9CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3D51B64-8F1C-4ADC-B684-6CF721C2D9CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3D51B64-8F1C-4ADC-B684-6CF721C2D9CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0840B281-96BE-45AB-A3F7-D942FDA871EB}
+	EndGlobalSection
+EndGlobal
